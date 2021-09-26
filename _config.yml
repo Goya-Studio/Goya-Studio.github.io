@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 title                    : "Goya-Studio"
-title_separator          : "like an Art"
+title_separator          : "like an Artist"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yongmin_Kwon"
 description              : "Mechanical Engineers who learn ML"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Yongmin Kwon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "like an **Artist**"
   location         : "Daejeon in S.Korea"
   email            :
   links:
